@@ -37,7 +37,7 @@ ZIGGO TSNPerf is a flexible, comprehensive and user-friendly TSN evaluation tool
 It provides protocol compliance assesment and network performance evaluation.
 The following figure illustrates the similarities and differences between ZIGGO TSNPerf and iPerf3.
 
-![TSNPerf versus iPerf3](./figs/vsiperf.png)
+![TSNPerf versus iPerf3](./figs/vsiperf.jpg)
 
 ## Demo
 
